@@ -1,0 +1,27 @@
+.photo-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 45px;
+}
+
+.text-container{
+    inline-size: 60vw;
+    padding: 0px 50px;
+}
+
+.title{
+    font-size: 52px;
+}
+
+.caption{
+    font-size: 20px;
+}
+
+.hero-text{
+font-family: "Poppins";
+}
+
+.image{
+    width: 650px;
+}
+
