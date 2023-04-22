@@ -1,5 +1,5 @@
 import React from "react";
-import collage from "../photo-grid.png";
+import collage from "../images/photo-grid.png";
 import "./Hero.css"
 
 

@@ -1,0 +1,42 @@
+.rating-container{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.rating-container > img {
+    width: 15px;
+    height: 15px;
+    
+}
+
+.card-text{
+    font-family: "Poppins";
+}
+.card-container{
+    padding: 25px 50px;
+    position: relative;
+}
+
+.card-container > img {
+    
+    border-radius: 3%;
+}
+
+.desc-container{
+    margin-top: -1.2em;
+}
+
+.grey{
+    color:grey
+}
+
+.card-badge{
+    position: absolute;
+    top: 35px;
+    left: 60px;
+    background-color:white;
+    padding: 5px 7px;
+    border-radius: 5px;
+    font-weight: bold;
+}
